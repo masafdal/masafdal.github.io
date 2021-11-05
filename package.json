@@ -1,0 +1,42 @@
+{
+  "name": "masafdal.github.io",
+  "version": "1.0.1",
+  "description": "Cerita panjang perjalanan hidup dan karir saya sampai bisa menjadi programmer di beberapa perusahaan teknologi besar di Indonesia",
+  "productName": "Portofolio Afdal",
+  "author": "masafdalzxc@gmail.com",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "build": "quasar build -m pwa",
+    "logo:generate": "icongenie generate -m pwa -i ./logo.png [-b ./background.png]"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "quasar": "^2.0.0",
+    "vue-i18n": "^9.0.0",
+    "vuex": "^4.0.1"
+  },
+  "devDependencies": {
+    "@quasar/app": "^3.0.0",
+    "@quasar/cli": "^1.2.2",
+    "workbox-webpack-plugin": "^6.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 12.22.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
