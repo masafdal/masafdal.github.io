@@ -1,1 +1,0 @@
-# afdal.github.io
