@@ -21,6 +21,7 @@
   "devDependencies": {
     "@quasar/app": "^3.0.0",
     "@quasar/cli": "^1.2.2",
+    "@quasar/icongenie": "^2.4.1",
     "workbox-webpack-plugin": "^6.0.0"
   },
   "browserslist": [
